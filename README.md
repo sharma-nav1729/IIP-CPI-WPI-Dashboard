@@ -36,3 +36,37 @@ It is designed to showcase my skills in **data analysis**, **Python programming*
 ---
 
 ## 📂 Project Structure (To Be Added)
+
+---
+
+## 📅 Status
+
+- ✅ Repository Initialized
+- 🔄 Phase 1: Planning & Setup (In Progress)
+- 🔲 Phase 2: Data Acquisition
+- 🔲 Phase 3: Dashboard Development
+- 🔲 Phase 4: Deployment & Testing
+
+---
+
+## 🙋 About Me
+
+I am currently pursuing an **MSc in Statistics**, and this project is a showcase of my skills in:
+- Data Analytics
+- Python Programming
+- Visualization & Dashboarding
+- Working with Economic Data
+
+---
+
+## 🤖 AI Tools Used
+
+- **ChatGPT:** Project planning, debugging, workflow guidance  
+- **Claude:** Coding help & idea generation  
+- **Google Colab / Replit:** Mobile-accessible coding environments  
+
+---
+
+## 📎 License
+
+This project is open-source and available under the [MIT License](LICENSE).
