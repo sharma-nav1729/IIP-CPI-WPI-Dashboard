@@ -33,7 +33,13 @@ It is designed to showcase my skills in **data analysis**, **Python programming*
 ---
 
 ## 📂 Project Structure (To Be Added)
-IIP-CPI-WPI-Dashboard/ ├── data/               # Raw and cleaned data ├── notebooks/          # Google Colab / Jupyter notebooks ├── dashboards/         # Dashboard scripts (Streamlit/Dash) ├── utils/              # Helper functions ├── README.md └── requirements.txt
+IIP-CPI-WPI-Dashboard/
+├── data/              # Raw and cleaned data files (CSV, JSON, etc.)
+├── notebooks/         # Google Colab / Jupyter notebooks for analysis
+├── dashboards/        # Streamlit or Dash scripts for visualization
+├── utils/             # Utility modules (data loaders, formatters)
+├── README.md          # Project overview and documentation
+└── requirements.txt   # Python dependencies
 ---
 
 ## 📅 Status
