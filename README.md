@@ -1,6 +1,3 @@
-# IIP-CPI-WPI-Dashboard
-Interactive dashboards for IIP, CPI, and WPI data with real-time updates.
-
 # 📊 IIP-CPI-WPI Dashboard
 
 This project aims to develop **interactive, real-time dashboards** for tracking and visualizing key Indian economic indices:
@@ -36,7 +33,7 @@ It is designed to showcase my skills in **data analysis**, **Python programming*
 ---
 
 ## 📂 Project Structure (To Be Added)
-
+IIP-CPI-WPI-Dashboard/ ├── data/               # Raw and cleaned data ├── notebooks/          # Google Colab / Jupyter notebooks ├── dashboards/         # Dashboard scripts (Streamlit/Dash) ├── utils/              # Helper functions ├── README.md └── requirements.txt
 ---
 
 ## 📅 Status
